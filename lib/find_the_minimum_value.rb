@@ -2,7 +2,7 @@ def find_min_value(array)
 array.min
 end
 
-def find_min_value(array)
+#def find_min_value(array)
 #   i = 0
 #   max_value = 100
 #   while i < array.length do
